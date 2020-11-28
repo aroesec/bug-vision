@@ -1,1 +1,1 @@
-# Detects Insect Species Using a CNN through pytorch
+# Detects Insect Species Using a CNN through pytorch by aroesec
