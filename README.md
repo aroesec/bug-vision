@@ -1,0 +1,1 @@
+# Detects Insect Species Using a CNN through pytorch
